@@ -1,5 +1,3 @@
-# gis-portfolio
-
 # My Spatial Data Science with ArcGIS Pro Portfolio
 tktk
 
