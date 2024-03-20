@@ -1,5 +1,3 @@
-# [gis_portfolio](https://jredman14.github.io/gis-portfolio/)
-
 # Kraken Demo Challenge Exercise
 For this assignment, I created a custom basemap and webapp for navigating between various Summer Brew Festivals in Pittsburgh.
 
