@@ -14,7 +14,7 @@ I hope to continue building my analytical skillset and learn more applications o
 # Portfolio
 Here are a few samples of my work:
 
-## Assignment Placeholder
+## [Kraken Demo Challenge Exercise](/kraken-demo.md)
 Coming soon!
 
 ## Assignment Placeholder
