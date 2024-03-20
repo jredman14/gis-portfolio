@@ -15,7 +15,8 @@ I hope to continue building my analytical skillset and learn more applications o
 Here are a few samples of my work:
 
 ## [Kraken Demo Challenge Exercise](/kraken-demo.md)
-Coming soon!
+
+<iframe width="800" height="600" frameborder="0" allowfullscreen src="https://arcg.is/8yCvn"></iframe>
 
 ## Assignment Placeholder
 Coming soon!
