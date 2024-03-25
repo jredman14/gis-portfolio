@@ -9,13 +9,13 @@ With the organization's focus on localism, I designed the following map template
 I used the Canva Color Palette Generator to extract the following colors from images taken from the Strong Towns [website](https://www.strongtowns.org/journal/2023/4/14/announcing-this-years-strongest-town-contest-winner) and [Strategic Plan](https://static1.squarespace.com/static/53dd6676e4b0fedfbc26ea91/t/627aae62e24d6669f6496002/1652207205056/Strong+Towns+Strategic+Plan+%28WEB%29.pdf):
 
 
-<img width="290" alt="Screenshot 2024-03-24 053644" src="https://github.com/jredman14/gis-portfolio/assets/156849712/e47047f3-2b3c-4229-bba1-b21291f6626e">
+<img width="400" alt="Screenshot 2024-03-24 053644" src="https://github.com/jredman14/gis-portfolio/assets/156849712/e47047f3-2b3c-4229-bba1-b21291f6626e">
 
-<img width="300" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/ccaffd51-3376-4917-a785-a513ca4eb7bb">
+<img width="400" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/ccaffd51-3376-4917-a785-a513ca4eb7bb">
 
-<img width="403" alt="Screenshot 2024-03-24 055400" src="https://github.com/jredman14/gis-portfolio/assets/156849712/a453a5c0-a350-4019-81c8-e8177d0366b0">
+<img width="600" alt="Screenshot 2024-03-24 055400" src="https://github.com/jredman14/gis-portfolio/assets/156849712/a453a5c0-a350-4019-81c8-e8177d0366b0">
 
-<img width="300" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5644b3f1-3786-46c9-be83-b140da62df4c">
+<img width="400" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5644b3f1-3786-46c9-be83-b140da62df4c">
 
 
 | Feature | Element | Color |
