@@ -1,14 +1,19 @@
 
 | Feature | Element | Color |
 |---------|---------|-------|
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Land area | Geometry | #3ca4eb |
+| Province | Label | #3ca4eb |
+| Province | Label outline |  |
+| Locality | Label |  |
+| Locality | Label outline |  |
+| Roads | Geometry |  |
+| Roads | Stroke |  |
+| Controlled-access highways | Geometry |  |
+| Transit lines | Fill |  |
+| Transit stations | Geometry |  |
+| Transit stations | Label text |  |
+| Transit stations | Label outline |  |
+| Water | Geometry |  |
 
 <img width="960" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/c4605112-495c-4a0d-b833-ecbd76441bf4">
 <img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
