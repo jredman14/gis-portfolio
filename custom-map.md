@@ -78,24 +78,6 @@
           },
           {
             "featureType": "administrative.locality",
-            "elementType": "labels.text",
-            "stylers": [
-              {
-                "color": "#efc68a"
-              }
-            ]
-          },
-          {
-            "featureType": "administrative.locality",
-            "elementType": "labels.text.fill",
-            "stylers": [
-              {
-                "color": "#efc68a"
-              }
-            ]
-          },
-          {
-            "featureType": "administrative.locality",
             "elementType": "labels.text.stroke",
             "stylers": [
               {
@@ -142,15 +124,6 @@
           {
             "featureType": "poi",
             "elementType": "labels.text",
-            "stylers": [
-              {
-                "color": "#efc68a"
-              }
-            ]
-          },
-          {
-            "featureType": "poi",
-            "elementType": "labels.text.fill",
             "stylers": [
               {
                 "color": "#efc68a"
