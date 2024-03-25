@@ -1,3 +1,5 @@
+<img width="960" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5256e49e-ebdc-4a28-8c81-6a95afef29e5">
+
 [
   {
     "elementType": "geometry",
