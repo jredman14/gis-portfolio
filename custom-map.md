@@ -6,7 +6,7 @@ For this assignment, I decided to build a custom map template for [Strong Towns]
 With the organization's focus on localism, I designed the following map template to emphasize cities, towns, and local streets, while de-emphasizing features like interstate highways and other geographic labels. 
 
 ## Color Palette
-I used the Canva Color Palette Generator to extract the following colors from images taken from the Strong Towns [website](https://www.strongtowns.org/journal/2023/4/14/announcing-this-years-strongest-town-contest-winner) and [Strategic Plan](https://static1.squarespace.com/static/53dd6676e4b0fedfbc26ea91/t/627aae62e24d6669f6496002/1652207205056/Strong+Towns+Strategic+Plan+%28WEB%29.pdf):
+I used the Canva Color Palette Generator to extract the following colors from the Strong Towns [website](https://www.strongtowns.org/journal/2023/4/14/announcing-this-years-strongest-town-contest-winner) and [Strategic Plan](https://static1.squarespace.com/static/53dd6676e4b0fedfbc26ea91/t/627aae62e24d6669f6496002/1652207205056/Strong+Towns+Strategic+Plan+%28WEB%29.pdf):
 
 
 <img width="400" alt="Screenshot 2024-03-24 053644" src="https://github.com/jredman14/gis-portfolio/assets/156849712/e47047f3-2b3c-4229-bba1-b21291f6626e">
@@ -17,6 +17,9 @@ I used the Canva Color Palette Generator to extract the following colors from im
 
 <img width="400" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5644b3f1-3786-46c9-be83-b140da62df4c">
 
+I used Picton Blue and Tacao as the main two colors for the design, using other colors like Ebony Clay for various outlines and strokes. Picton Blue was the main background color, making up most of the land area, while Tacao was the color I used to make certain features stand out above the others (cities and local roads, for example). Like I said before, I sort of wanted to invert conventional map design to feature smaller roads and towns rather than highways or larger geographical features. I made the highways fade into the background by using a different shade of blue (Boston Blue) and made the state labels seesntially just an outline to greater focus the map on cities and towns. 
+
+Using colors in line with the Strong Towns brand, and emphasizing the geographical features most relevant to Strong Towns's mission of encouraging Main Street development and promoting community building, this template should be a good fit for Strong Towns. Below is a breakdown of my use of color:
 
 | Feature | Element | Color |
 |---------|---------|-------|
@@ -38,10 +41,18 @@ I used the Canva Color Palette Generator to extract the following colors from im
 | Transit stations | Label outline | #262f38 (Ebony Clay) |
 | Water | Geometry | #262f38 (Ebony Clay) |
 
+## Map Views
+Below are views of my map template from various zoom extents, centered on Brattleboro, VT, the 2023 Strongest Town Winner.
+### Eastern United States
 <img width="960" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/c4605112-495c-4a0d-b833-ecbd76441bf4">
+
+### New England Region
 <img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
+
+### Brattleboro, VT - 2023 Strongest Town Winner
 <img width="960" alt="Screenshot 2024-03-24 232055" src="https://github.com/jredman14/gis-portfolio/assets/156849712/9113b4f9-6783-4183-abb1-1aa2fb951a06">
 
+## JSON Code
 [Link to JSON text file](https://1drv.ms/u/s!AgmvhI3Sh11Kgskw9-IlFnHbznsoUQ?e=F1uaNn)
 
         [
