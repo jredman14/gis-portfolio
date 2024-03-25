@@ -44,15 +44,19 @@ Using colors in line with the Strong Towns brand, and emphasizing the geographic
 ## Map Views
 Below are views of my map template from various zoom extents, centered on Brattleboro, VT, the 2023 Strongest Town Winner.
 ### Eastern United States
+Here, you can see the cities clearly stand out over all other features, showing that this map highlights *place* over all else.
 <img width="960" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/c4605112-495c-4a0d-b833-ecbd76441bf4">
 
 ### New England Region
+In this view, you can see the local and regional streets clearly, while the interstate highways fade as background features. This was intentional, since local streets are often the bedrock of communities, whereas interstates exist more for commercial purposes. 
 <img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
 
 ### Brattleboro, VT - 2023 Strongest Town Winner
+Here, you can see Brattleboro's dense local street network and mix of businesses, cultural attractions, and outdoor recreation that helped make it Strong Towns's "Strongest Town" in 2023.
 <img width="960" alt="Screenshot 2024-03-24 232055" src="https://github.com/jredman14/gis-portfolio/assets/156849712/9113b4f9-6783-4183-abb1-1aa2fb951a06">
 
 ## JSON Code
+Here is the JSON code for my map template and a link to a .json text file containing the code.
 [Link to JSON text file](https://1drv.ms/u/s!AgmvhI3Sh11Kgskw9-IlFnHbznsoUQ?e=F1uaNn)
 
         [
