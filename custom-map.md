@@ -1,4 +1,3 @@
-# [gis-portfolio](README.md)
 
 <img width="294" alt="Screenshot 2024-03-24 053644" src="https://github.com/jredman14/gis-portfolio/assets/156849712/e47047f3-2b3c-4229-bba1-b21291f6626e">
 
