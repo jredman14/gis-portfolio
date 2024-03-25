@@ -42,6 +42,7 @@ I used the Canva Color Palette Generator to extract the following colors from im
 <img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
 <img width="960" alt="Screenshot 2024-03-24 232055" src="https://github.com/jredman14/gis-portfolio/assets/156849712/9113b4f9-6783-4183-abb1-1aa2fb951a06">
 
+[Link to JSON text file](https://1drv.ms/u/s!AgmvhI3Sh11Kgskw9-IlFnHbznsoUQ?e=F1uaNn)
 
         [
           {
