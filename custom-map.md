@@ -12,6 +12,7 @@ I used the Canva Color Palette Generator to extract the following colors from im
 <img width="438" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/ccaffd51-3376-4917-a785-a513ca4eb7bb">
 
 <img width="353" alt="Screenshot 2024-03-24 055400" src="https://github.com/jredman14/gis-portfolio/assets/156849712/a453a5c0-a350-4019-81c8-e8177d0366b0">
+
 <img width="439" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5644b3f1-3786-46c9-be83-b140da62df4c">
 
 | Feature | Element | Color |
