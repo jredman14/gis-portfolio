@@ -65,7 +65,7 @@ Here, you can see Brattleboro's dense local street network and mix of businesses
 ## JSON Code
 Here is the JSON code for my map template and a link to a .json text file containing the code.
 
-[Link to JSON text file](https://1drv.ms/u/s!AgmvhI3Sh11Kgskw9-IlFnHbznsoUQ?e=F1uaNn)
+[Link to JSON text file](https://1drv.ms/u/s!AgmvhI3Sh11Kgskw9-IlFnHbznsoUQ?e=ucCcpj)
 
 ### Code Block
 
