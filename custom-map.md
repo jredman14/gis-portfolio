@@ -1,5 +1,8 @@
 # Building a Custom Google Map for a Nonprofit
-For this assignment, I decided to build a custom map template for [Strong Towns](https://www.strongtowns.org/), "a 501(c)(3) nonprofit media advocacy organization." Strong Towns releases educational videos, materials, and other multumedia, and facilitates commmunity organization to support their mission: 
+For this assignment, I built a custom map template for a nonprofit ([Strong Towns](https://www.strongtowns.org/)), using colors from its branding.
+
+## Introduction
+As "a 501(c)(3) nonprofit media advocacy organization," Strong Towns releases educational videos, materials, and other multumedia, and facilitates commmunity organization to support their mission: 
 
 "We seek to replace America’s post-war pattern of development, the Suburban Experiment, with a pattern of development that is financially strong and resilient. We advocate for cities of all sizes to be safe, livable, and inviting. We work to elevate local government to be the highest level of collaboration for people working together in a place, not merely the lowest level in a hierarchy of governments."
 
@@ -17,7 +20,7 @@ I used the Canva Color Palette Generator to extract the following colors from th
 
 <img width="400" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5644b3f1-3786-46c9-be83-b140da62df4c">
 
-I used Picton Blue and Tacao as the main two colors for the design, using other colors like Ebony Clay for various outlines and strokes. Picton Blue was the main background color, making up most of the land area, while Tacao was the color I used to make certain features stand out above the others (cities and local roads, for example). Like I said before, I sort of wanted to invert conventional map design to feature smaller roads and towns rather than highways or larger geographical features. I made the highways fade into the background by using a different shade of blue (Boston Blue) and made the state labels seesntially just an outline to greater focus the map on cities and towns. 
+I used **Picton Blue** and **Tacao** as the main two colors for the design, using other colors like Ebony Clay for various outlines and strokes. Picton Blue was the main background color, making up most of the land area, while Tacao was the color I used to make certain features stand out above the others (cities and local roads, for example). Building on what I mentioned above, I sort of wanted to invert conventional map design to feature smaller roads and towns rather than highways or larger geographical features. I made the highways fade into the background by using a different shade of blue (Boston Blue) and made the state labels essentially just an outline to greater focus the map on cities, towns, and communities. 
 
 Using colors in line with the Strong Towns brand, and emphasizing the geographical features most relevant to Strong Towns's mission of encouraging Main Street development and promoting community building, this template should be a good fit for Strong Towns. Below is a breakdown of my use of color:
 
@@ -42,19 +45,20 @@ Using colors in line with the Strong Towns brand, and emphasizing the geographic
 | Water | Geometry | #262f38 (Ebony Clay) |
 
 ## Map Views
-Below are views of my map template from various zoom extents, centered on Brattleboro, VT, the 2023 Strongest Town Winner.
+Below are views of my map template from various zoom extents, centered on Brattleboro, Vermont, the 2023 Strongest Town Winner.
+
 ### Eastern United States
 Here, you can see the cities clearly stand out over all other features, showing that this map highlights *place* over all else.
 
 <img width="960" alt="image" src="https://github.com/jredman14/gis-portfolio/assets/156849712/c4605112-495c-4a0d-b833-ecbd76441bf4">
 
 ### New England Region
-In this view, you can see the local and regional streets clearly, while the interstate highways fade as background features. This was intentional, since local streets are often the bedrock of communities, whereas interstates exist more for commercial purposes. 
+In this view, you can see the local and regional streets clearly, as well as both large cities and smaller towns, while the interstate highways fade as background features. This was intentional, since local streets are often the bedrock of communities, whereas interstates can serve more commercial purposes (shipping, freight, etc.). 
 
 <img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
 
 ### Brattleboro, VT - 2023 Strongest Town Winner
-Here, you can see Brattleboro's dense local street network and mix of businesses, cultural attractions, and outdoor recreation that helped make it Strong Towns's "Strongest Town" in 2023.
+Here, you can see Brattleboro's dense local street network and mix of businesses, cultural attractions, and scenery that helped make it Strong Towns's "[Strongest Town](https://www.strongtowns.org/journal/2023/4/14/announcing-this-years-strongest-town-contest-winner)" in 2023.
 
 <img width="960" alt="Screenshot 2024-03-24 232055" src="https://github.com/jredman14/gis-portfolio/assets/156849712/9113b4f9-6783-4183-abb1-1aa2fb951a06">
 
@@ -62,6 +66,8 @@ Here, you can see Brattleboro's dense local street network and mix of businesses
 Here is the JSON code for my map template and a link to a .json text file containing the code.
 
 [Link to JSON text file](https://1drv.ms/u/s!AgmvhI3Sh11Kgskw9-IlFnHbznsoUQ?e=F1uaNn)
+
+### Code Block
 
         [
           {
