@@ -18,8 +18,9 @@ Here are a few samples of my work:
 
 <iframe width="800" height="600" frameborder="0" allowfullscreen src="https://arcg.is/8yCvn"></iframe>
 
-## Assignment Placeholder
-Coming soon!
+## [Building a Custom Google Map for a Nonprofit](custom-map.md)
+
+<img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
 
 ## Assignment Placeholder
 Coming soon!
