@@ -24,7 +24,7 @@ Here are a few samples of my work:
 
 ## [Ottawa Cyclist Collisions Challenge](ottawa-cyclists.md)
 
-<iframe src="https://insights.arcgis.com/#/embed/59815e64da2d4f53b661db7ea327ca9c" width="100%" height="100%" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/59815e64da2d4f53b661db7ea327ca9c" width="1000" height="830" frameborder="0"></iframe>
 
 ## Assignment Placeholder
 Coming soon!
