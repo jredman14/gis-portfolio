@@ -22,8 +22,9 @@ Here are a few samples of my work:
 
 <img width="960" alt="Screenshot 2024-03-24 232026" src="https://github.com/jredman14/gis-portfolio/assets/156849712/5f2bd182-5b52-4cf4-a7a0-3aba35baead5">
 
-## Assignment Placeholder
-Coming soon!
+## [Ottawa Cyclist Collisions Challenge](ottawa-cyclists.md)
+
+<iframe src="https://insights.arcgis.com/#/embed/59815e64da2d4f53b661db7ea327ca9c" width="100%" height="100%" frameborder="0"></iframe>
 
 ## Assignment Placeholder
 Coming soon!
