@@ -1,3 +1,5 @@
+| [Home](README.md) | [Kraken Demo](kraken-demo.md) | [Custom Map](custom-map.md) | [Final Project](final-project.md) |
+
 # Analysis of Cycling Incidents in Ottawa, Canada
 For this challenge, I created a report on ArcGIS Insights to gain a greater understanding of cyclist collisions in Ottawa. 
 
