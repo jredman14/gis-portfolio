@@ -3,4 +3,4 @@ For my final project, I designed potential passenger rail corridors for the stat
 
 Link to story map: [https://arcg.is/1WmOCj1](https://arcg.is/1WmOCj1)
 
-<iframe src=”https://insights.arcgis.com/#/view/62fb1cdbee11411694bec5b10735425c” width=”800” height=”1000″</iframe>
+<iframe src="https://insights.arcgis.com/#/view/62fb1cdbee11411694bec5b10735425c" width="800px" height="1000px"</iframe>
