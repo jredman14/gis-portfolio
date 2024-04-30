@@ -26,8 +26,5 @@ Here are a few samples of my work:
 
 <iframe src="https://insights.arcgis.com/#/embed/59815e64da2d4f53b661db7ea327ca9c" width="1000" height="830" frameborder="0"></iframe>
 
-## Assignment Placeholder
-Coming soon!
-
-# Final Project
-Coming soon!
+# [Final Project](final-project.md)
+![RailCorridor](https://github.com/jredman14/gis-portfolio/assets/156849712/5a313469-6f74-4263-898f-8a8009c08550)
