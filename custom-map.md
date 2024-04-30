@@ -1,4 +1,5 @@
 | [Home](README.md) | [Kraken Demo](kraken-demo.md) | [Ottawa Cyclists](ottawa-cyclists.md) | [Final Project](final-project.md) |
+
 # Building a Custom Google Map for a Nonprofit
 For this assignment, I built a custom map template for a nonprofit ([Strong Towns](https://www.strongtowns.org/)), using colors from its branding.
 
